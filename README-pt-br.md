@@ -1,14 +1,14 @@
-Click here to change the language:
+Clique aqui para alterar o idioma:
 
-[![flag-eua](./src/img/eua.png)](./REDME.md) [![flag-brasil](./src/img/brasil.png)](./REDME-pt-br.md)
+[![flag-eua](./src/img/eua.png)](./REDME.md) [![flag-brasil](./src/img/brasil.png)](./README-pt-br.md)
 
 # NLW - Expert Notes
 
-**Expert Notes** is an exciting project created during Rocketseat's NLW event, aimed at technology enthusiasts and web development enthusiasts. Developed with React and TypeScript, this note-taking application provides an intuitive platform for organizing thoughts and ideas. Utilizing modern design and UX concepts, **Expert Notes** delivers a seamless and responsive experience across all devices. By integrating advanced local storage features, users can access their notes quickly and securely. Whether jotting down programming insights or capturing creative thoughts, **Expert Notes** is the essential tool for students and professionals seeking organization and productivity.
+O **Expert Notes** é um projeto apaixonante criado durante o evento NLW da Rocketseat, voltado para entusiastas de tecnologia e desenvolvimento web. Desenvolvido com React e TypeScript, este aplicativo de bloco de notas oferece uma plataforma intuitiva para organizar pensamentos e ideias. Utilizando conceitos modernos de design e UX, o Expert Notes proporciona uma experiência fluida e responsiva em todos os dispositivos. Integrando recursos avançados de armazenamento local, os usuários podem acessar suas notas de forma rápida e segura. Seja para anotar insights de programação ou registrar pensamentos criativos, o **Expert Notes** é a ferramenta essencial para estudantes e profissionais em busca de organização e produtividade.
 
 <br>
 
-:computer: [Click here to access the application](https://nlw-expert-notes-zeta-rust.vercel.app/)
+:computer: [Clique aqui para acessar a aplicação](https://nlw-expert-notes-zeta-rust.vercel.app/)
 
 <br>
 
@@ -20,7 +20,7 @@ Click here to change the language:
 
 <br>
 
-## Technologies
+## Tecnologias
 
 ![Static Badge](https://img.shields.io/badge/React-242424?style=for-the-badge&logo=react&logoColor=00d9ff&labelColor=242424)
 ![Static Badge](https://img.shields.io/badge/JavaScript-242424?style=for-the-badge&logo=javascript&logoColor=ffff00&labelColor=242424)
@@ -38,32 +38,32 @@ Click here to change the language:
 ![Static Badge](https://img.shields.io/badge/Git-ec6231?style=for-the-badge&logo=git&logoColor=fff&labelColor=ec6231)
 ![Static Badge](https://img.shields.io/badge/vercel-242424?style=for-the-badge&logo=vercel&logoColor=fff&labelColor=242424)
 
-## Dependencies:
+## Dependencias:
 
+- @radix-ui/react-dialog;
+- date-fns;
+- lucide-react;
 - react;
 - react-dom;
-- react-icons;
-- react-router-dom;
-- react-scripts;
-- web-vitals;
+- sonner;
 
-## Getting Started
+## Começando
 
-This project can be used on your own machine after performing a **PUSH** of this repository.
+Este projeto pode ser usado em sua própria máquina após realizar um **PUSH** deste repositório.
 
 ### `npm install`
 
-To download and update all project libraries and dependencies
+Para baixar e atualizar todas as bibliotecas e dependências do projeto
 
-### `npm start`
+### `npm run dev`
 
-Runs the application in development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Executa aplicativo em modo desenvolvimento.\
+Abra [http://localhost:5173/](http://localhost:5173/) para vizualizá-lo em seu navegador.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+A pagina será recarregada quando você fizer alterações.\
+Você também pode ver quaisquer erros de lint no console.
 
-## Contact
+## Contato
 
 <div>
   <a href="https://portfolio-ten-lime-67.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/portifolio-FF0000?style=for-the-badge&logo=unitednations&logoColor=white" target="_blank"></a>
