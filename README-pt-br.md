@@ -16,7 +16,7 @@ O **Expert Notes** é um projeto apaixonante criado durante o evento NLW da Rock
 
 <br>
 
-![nlw-expert-notes2](./src/img/expertNotes2.png)
+![nlw-expert-notes2](./src/img/expertNotes2.PNG)
 
 <br>
 

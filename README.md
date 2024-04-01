@@ -16,7 +16,7 @@ Click here to change the language:
 
 <br>
 
-![nlw-expert-notes2](./src/img/expertNotes2.png)
+![nlw-expert-notes2](./src/img/expertNotes2.PNG)
 
 <br>
 
